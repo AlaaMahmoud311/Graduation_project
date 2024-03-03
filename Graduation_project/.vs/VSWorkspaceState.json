@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAL",
+    "\\DAL\\Data",
+    "\\DAL\\Data\\Migration",
+    "\\DAL\\Entities",
+    "\\Edu_Chatbot"
+  ],
+  "SelectedNode": "\\DAL\\Entities\\Tracks.cs",
+  "PreviewInSolutionExplorer": false
+}

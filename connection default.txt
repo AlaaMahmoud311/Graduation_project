@@ -1,0 +1,5 @@
+"ConnectionStrings": {
+    "DefaultConnection": "server= .; database= ChatbotDb; trusted_connection= true;multipleActiveResultsets=true"
+  },
+
+  
